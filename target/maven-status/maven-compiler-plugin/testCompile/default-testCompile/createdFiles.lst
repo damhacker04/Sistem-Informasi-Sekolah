@@ -1,0 +1,6 @@
+testservice\FinanceServiceTest.class
+testservice\StudentServiceTest.class
+testservice\LibraryServiceTest.class
+testservice\TeacherServiceTest.class
+testservice\SecurityServiceTest.class
+testservice\FunctionalMainTest.class
